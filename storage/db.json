@@ -1,0 +1,16 @@
+{
+  "users": {
+    "6281393274153@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity"
+    },
+    "6289691799773@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12
+    }
+  },
+  "database": {},
+  "sticker": {}
+}
